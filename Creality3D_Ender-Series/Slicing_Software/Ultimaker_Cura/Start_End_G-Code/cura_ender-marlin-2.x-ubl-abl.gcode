@@ -2,8 +2,8 @@
 ; Custom Start G-Code Version 1.0
 ; –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ; Created by: Anthony Greco (@iamanthonygreco, https://www.instagram.com/iamanthonygreco/)
-; Date Modified: 2022/05/20 (May 20, 2022)
-; Date Created: 2022/05/19 (May 19, 2022)
+; Date Modified: 2022/05/20
+; Date Created: 2022/05/19
 ; 
 ; Slicing Software: Cura (Version 5.0)
 ; 
@@ -11,7 +11,7 @@
 ;   * Creality3D Ender-2 Pro
 ;   * Creality3D Ender-3, Creality3D Ender-3 Pro, Creality3D Ender-3 Max, Creality3D Ender-3 V2, Creality3D Ender-3 S1
 ;   * Creality3D Ender-5, Creality3D Ender-5 Pro, Creality3D Ender-5 Plus
-; 3D Printer Firmware: Marlin 2.x Firmware (Unified Bed Leveling, Auto Bed Leveling Sensor)
+; 3D Printer Firmware: Marlin 2.x (Unified Bed Leveling, Auto Bed Leveling Sensor)
 
 ; Set Modes
 ; –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
@@ -62,8 +62,8 @@ G1 X5 Y0.1 Z{layer_height_0} F5000.0 ; move the x-axis to 5 mm and the first lay
 ; Custom End G-Code Version 1.0
 ; –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ; Created by: Anthony Greco (@iamanthonygreco, https://www.instagram.com/iamanthonygreco/)
-; Date Modified: 2022/05/20 (May 20, 2022)
-; Date Created: 2022/05/19 (May 19, 2022)
+; Date Modified: 2022/05/20
+; Date Created: 2022/05/19
 ; 
 ; Slicing Software: Cura (Version 5.0)
 ; 
@@ -71,7 +71,7 @@ G1 X5 Y0.1 Z{layer_height_0} F5000.0 ; move the x-axis to 5 mm and the first lay
 ;   * Creality3D Ender-2 Pro
 ;   * Creality3D Ender-3, Creality3D Ender-3 Pro, Creality3D Ender-3 Max, Creality3D Ender-3 V2, Creality3D Ender-3 S1
 ;   * Creality3D Ender-5, Creality3D Ender-5 Pro, Creality3D Ender-5 Plus
-; 3D Printer Firmware: Marlin 2.x Firmware (Unified Bed Leveling, Auto Bed Leveling Sensor)
+; 3D Printer Firmware: Marlin 2.x (Unified Bed Leveling, Auto Bed Leveling Sensor)
 
 ; Finish Moves
 ; –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
